@@ -1,62 +1,24 @@
-![License: DOL](https://img.shields.io/badge/License-red.svg)
+This is free and unencumbered software released into the public domain.
 
-**Version 1.0, 2025**  
-**Copyright © 2025 KTS (Romania)**  
+Anyone is free to copy, modify, publish, use, compile, sell, or
+distribute this software, either in source code form or as a compiled
+binary, for any purpose, commercial or non-commercial, and by any
+means.
 
----
+In jurisdictions that recognize copyright laws, the author or authors
+of this software dedicate any and all copyright interest in the
+software to the public domain. We make this dedication for the benefit
+of the public at large and to the detriment of our heirs and
+successors. We intend this dedication to be an overt act of
+relinquishment in perpetuity of all present and future rights to this
+software under copyright law.
 
-## 📖 Purpose
-This repository and its contents are provided **solely for demonstration, educational, and viewing purposes**.  
-The intent of this license is to allow others to examine the code, structure, and design choices, but **not to copy or redistribute** without explicit written permission from the copyright holder.  
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
+OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
+ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
+OTHER DEALINGS IN THE SOFTWARE.
 
----
-
-## ✅ Grant of Rights
-Subject to the terms and conditions of this License, you are granted a **limited, revocable, non-transferable license** to:  
-
-- View and read the source code and other content in this repository.  
-- Use the repository as a learning or reference resource.  
-
----
-
-## 🚫 Restrictions
-You may **not**, without prior written permission from the copyright holder:  
-
-- Copy, reproduce, or redistribute the contents of this repository in whole or in part.  
-- Modify, adapt, or create derivative works based on the repository.  
-- Use the repository or its contents for commercial purposes.  
-- Incorporate any portion of this repository into other software, documentation, or media.  
-
----
-
-## 🛡️ Ownership
-All rights, title, and interest in and to the repository and its contents remain with **KTS**.  
-Nothing in this License transfers ownership to you.  
-
----
-
-## ⚠️ Disclaimer of Warranty
-The repository is provided **“as is”**, without warranty of any kind, express or implied, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement.  
-
----
-
-## 💥 Limitation of Liability
-In no event shall the copyright holder be liable for any damages arising from the use, misuse, or inability to use the repository or its contents, even if advised of the possibility of such damages.  
-
----
-
-## ⛔ Termination
-This License is automatically terminated if you violate any of its terms. Upon termination, you must immediately cease all use of the repository and destroy all copies in your possession.  
-
----
-
-## ⚖️ Governing Law
-This License shall be governed by and construed in accordance with the laws of **Romania**, without regard to conflict of law principles.  
-
----
-
-## 📬 Contact
-For permissions beyond the scope of this License, please contact:  
-**KTS – Romania**  
-
----
+For more information, please refer to <https://unlicense.org>
